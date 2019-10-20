@@ -12,4 +12,4 @@ Evolutionary Support Vector Machine
 * This project uses LibSVM library.
 * Main file to run is 'evo-svm.m'. Edit directory path to LibSVM toolbox, and Datasets folder. Specify all needed parameters in this file as well.
 * User can add or remove as many MAs as needed. Make sure to add them in the 'evo_algorithms' folder and call them in code as shown for other algorithms. Also make sure that all files' names are unique in the entire project.
-* This project uses paralell For loop separate experiments in Matlab. 
+* This project uses paralell For loop for separate experiments in Matlab. 
