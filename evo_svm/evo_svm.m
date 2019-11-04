@@ -35,7 +35,7 @@ FA = 0;
 BAT = 0;
 CSO = 0;
 
-algorithms = [MVO GA PSO DA GOA SCA SSA WOA FA BAT CSO CSO_cross];
+algorithms = [MVO GA PSO DA GOA SCA SSA WOA FA BAT CSO];
 
 [~, algo_count]=size(algorithms);
 
